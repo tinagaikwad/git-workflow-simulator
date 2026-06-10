@@ -1,1 +1,2 @@
-# git-workflow-simulator
+# Hello from Feature B
+
